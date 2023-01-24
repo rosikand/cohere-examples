@@ -1,1 +1,1 @@
-Example code snippets illustrating concepts in large language models via the cohere.ai platform. 
+Example code snippets illustrating concepts in large language models via the cohere.ai platform. Most of these examples rely on an API key connected to your cohere.ai account that is set as an environment variable. You can do this via `export COHERE_API_KEY=<your api key>`. Then run `printenv` to confirm it is there. 
